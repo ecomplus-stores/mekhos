@@ -1,5 +1,8 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "impressao-3d",
+    "robotica-e-motores"
+  ],
   "phone_wpp": true,
   "socials": true
 }
