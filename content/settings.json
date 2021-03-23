@@ -1,7 +1,7 @@
 {
   "domain": "mekhos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#828282",
+  "primary_color": "#f1851e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#f1851e",
+  "secondary_color": "#828282",
   "icon": "/img/uploads/logo-500x500.png",
   "store_id": 1127,
   "description": "Pense em dois engenheiros NERDS que gostam de tecnologia, SOMOS NÓS! Sem contar que temos mais de 10 anos fornecendo kits de robótica, componentes eletrônicos e treinamentos no universo Maker em todo Brasil.",
