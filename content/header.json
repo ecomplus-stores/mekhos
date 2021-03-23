@@ -18,9 +18,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/arduino?Arduino",
+      "/raspberry-pi?Raspberry Pi"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
