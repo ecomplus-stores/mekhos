@@ -1,23 +1,23 @@
 {
   "domain": "mekhos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f1851e",
+  "primary_color": "#828282",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "name": "MEKHOS - Robótica e Componentes Eletrônicos!!!",
-  "short_name": "MEKHOS: Robótica e Componentes",
+  "name": "Kits de Robótica e Componentes Eletrônicos é na MEKHOS",
+  "short_name": "MEKHOS",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#f1851e",
   "icon": "/img/icon.png",
   "store_id": 1127,
-  "description": "Kits de Robótica, componentes eletrônicos ",
+  "description": "SOMOS NERDS e adoramos tecnologia!\nPois temos mais de 10 anos fornecendo kits de robótica, componentes eletrônicos e treinamentos no universo maker em todo Brasil.",
   "large_icon": "/img/large-icon.png"
 }
