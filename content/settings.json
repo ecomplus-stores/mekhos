@@ -1,15 +1,15 @@
 {
   "domain": "mekhos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#f1851e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "name": "MEKHOS - Robótica e Componentes Eletrônicos",
-  "short_name": "mekhos",
+  "name": "MEKHOS - Robótica e Componentes Eletrônicos!!!",
+  "short_name": "M.E.K.H.O.S",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 1127,
-  "description": "mekhos",
+  "description": "Kits de Robótica, componentes eletrônicos ",
   "large_icon": "/img/large-icon.png"
 }
