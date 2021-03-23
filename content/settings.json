@@ -7,7 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-500x500.png",
   "name": "Kits de Robótica e Componentes Eletrônicos é na MEKHOS",
   "short_name": "MEKHOS",
   "lang": "pt_br",
@@ -16,7 +16,7 @@
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#f1851e",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-500x500.png",
   "store_id": 1127,
   "description": "SOMOS NERDS e adoramos tecnologia!\nPois temos mais de 10 anos fornecendo kits de robótica, componentes eletrônicos e treinamentos no universo maker em todo Brasil.",
   "large_icon": "/img/large-icon.png"
