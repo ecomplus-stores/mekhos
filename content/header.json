@@ -20,7 +20,15 @@
   "categories_list": {
     "featured": [
       "/arduino?Arduino",
-      "/raspberry-pi?Raspberry Pi"
+      "/raspberry-pi?Raspberry Pi",
+      "/robotica-e-motores?Robótica e Motores",
+      "/componentes-eletronicos?Componentes Eletrônicos",
+      "/impressao-3d?Impressão 3D",
+      "/acessorios-e-ferramentas?Acessórios e Ferramentas",
+      "/placas--prototipagem?Placas & Prototipagem",
+      "/wireless--iot?Wireless & IOT",
+      "/cursos?Cursos",
+      "/kits?Kits"
     ],
     "random": 6,
     "full_width": true
