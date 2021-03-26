@@ -1,7 +1,15 @@
 {
   "sort_categories": [
+    "arduino",
+    "raspberry-pi",
+    "kits",
+    "robotica-e-motores",
+    "componentes-eletronicos",
     "impressao-3d",
-    "robotica-e-motores"
+    "acessorios-e-ferramentas",
+    "placas--prototipagem",
+    "wireless--iot",
+    "cursos"
   ],
   "phone_wpp": true,
   "socials": true
