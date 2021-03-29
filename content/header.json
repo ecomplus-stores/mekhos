@@ -1,16 +1,16 @@
 {
   "marketing_stripe": {
-    "text": "QUEIMA DE ESTOQUE, descontos de até 25%!",
+    "text": "ÚLTIMAS UNIDADES, até 25% OFF!!! Confira",
     "link": "/promotion"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Veja nossos Kits!",
+        "title": "Veja nossos KITS!",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Conheça nossos treinamentos!",
+        "title": "Conheça nossos TREINAMENTOS!",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
@@ -23,6 +23,9 @@
       "/raspberry-pi?Raspberry Pi",
       "/robotica-e-motores?Robótica e Motores",
       "/componentes-eletronicos?Componentes Eletrônicos",
+      "/impressao-3d?Impressão 3D",
+      "/acessorios-e-ferramentas?Acessórios e Ferramentas",
+      "/wireless--iot?Wireless & IOT",
       "/treinamentos?Treinamentos",
       "/kits?Kits"
     ],
