@@ -1,7 +1,7 @@
 {
   "domain": "mekhos.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f1851e",
+  "primary_color": "#f35b04",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
