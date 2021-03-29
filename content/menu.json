@@ -3,11 +3,13 @@
     "arduino",
     "raspberry-pi",
     "robotica-e-motores",
+    "componentes-eletronicos",
     "impressao-3d",
     "acessorios-e-ferramentas",
     "placas--prototipagem",
     "wireless--iot",
-    "treinamentos"
+    "treinamentos",
+    "kits"
   ],
   "phone_wpp": true,
   "socials": true
