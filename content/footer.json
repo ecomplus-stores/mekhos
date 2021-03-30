@@ -1,17 +1,73 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Título TESTE RODAPE",
+    "text": "Texto opcional TESTE rodapé"
   },
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Contato"
+      },
+      {
+        "text": "Dúvidas frequentes"
+      },
+      {
+        "text": "Envios e Prazos"
+      },
+      {
+        "text": "Formas de pagamento"
+      },
+      {
+        "text": "Política de privacidade"
+      },
+      {
+        "text": "Sobre a MEKHOS"
+      },
+      {
+        "text": "Termos de serviço"
+      },
+      {
+        "text": "Trocas e devoluções"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Acessórios e Ferramentas"
+      },
+      {
+        "text": "Arduino"
+      },
+      {
+        "text": "Componentes Eletrônicos"
+      },
+      {
+        "text": "Impressão 3D"
+      },
+      {
+        "text": "Kits"
+      },
+      {
+        "text": "Placas & Prototipagem"
+      },
+      {
+        "text": "Raspberry Pi"
+      },
+      {
+        "text": "Robótica e Motores"
+      },
+      {
+        "text": "Treinamentos"
+      },
+      {
+        "text": "Wireless & IOT"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
@@ -27,21 +83,24 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "paypal": true,
     "citibank": false,
+    "hiper": true,
+    "diners": true,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
