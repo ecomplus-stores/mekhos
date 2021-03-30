@@ -3,6 +3,25 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner2.webp"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/icon.png"
+        },
+        {
+          "img": "/img/uploads/favicon.png"
+        }
+      ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "conteúdo personalizado"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -22,20 +41,41 @@
       ]
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2021-03-30T00:33:34.139Z",
+      "end": "2021-03-30T00:33:34.203Z"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "6059de5c4b9484460868bd49:collections:Populares:/populares",
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "sales"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Robótica e Componentes Eletrônicos é na MEKHOS",
+      "description": "Aqui você encontra desde componentes eletrônicos à kits de robótica, IOT e ferramentas, além de nossos fantásticos treinamentos e cursos!"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
