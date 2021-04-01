@@ -3,25 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner2.webp"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/icon.png"
-        },
-        {
-          "img": "/img/uploads/favicon.png"
-        }
-      ]
-    },
-    {
-      "type": "custom-content",
-      "markdown": "conteúdo personalizado"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -41,12 +22,6 @@
       ]
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-03-30T00:33:34.139Z",
-      "end": "2021-05-28T00:33:34.203Z"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -59,19 +34,40 @@
       "sort": "sales"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/icon.png"
+        },
+        {
+          "img": "/img/uploads/favicon.png"
+        }
+      ]
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2021-03-30T00:33:34.139Z",
+      "end": "2021-05-28T00:33:34.203Z",
+      "notes": "TEMPORIZADOR TESTE"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": "name"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "Robótica e Componentes Eletrônicos é na MEKHOS",
-      "description": "Aqui você encontra desde componentes eletrônicos à kits de robótica, IOT e ferramentas, além de nossos fantásticos treinamentos e cursos!"
     },
     {
       "type": "blog",
