@@ -74,14 +74,17 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
-      "sort": "sales"
+      "collection_id": "5f13a25614ff772fde80dfe6:categories:Componentes Eletrônicos:/componentes-eletronicos",
+      "sort": "sales",
+      "title": "Nossos COMPONENTES ELETRÔNICOS (🤓Confira🤓)"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6047e02d6d50911b6059cd3c:collections:Veja Quanta FERRAMENTA PRA VOCÊ!(🤓Confira🤓):/ferramentas",
+      "sort": "sales"
     },
     {
       "type": "offers-timer",
