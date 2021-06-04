@@ -1,17 +1,18 @@
 {
   "marketing_stripe": {
     "text": "ÚLTIMAS UNIDADES, até 25% OFF!!! Confira",
-    "link": "/promotion"
+    "link": "",
+    "color": "#ff8611"
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "Veja nossos KITS!",
-        "link": "/pages/sobre-nos"
+        "link": ""
       },
       {
         "title": "Conheça nossos TREINAMENTOS!",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": ""
       }
     ],
     "phone_wpp": true,
