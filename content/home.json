@@ -34,23 +34,6 @@
       "sort": "sales"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "606513623c48b468b9ae1bf7:collections:Conheça Nossos KITS DE ROBÓTICA (🤓Confira🤓):/kits-de-robotica",
-      "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6047dfaf6d50911b6059cc2d:collections:Veja Nossa Coleção de ARDUINO (🤓Confira🤓):/arduinos",
-      "sort": "sales",
-      "headless": false
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -74,34 +57,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f13a25614ff772fde80dfe6:categories:Componentes Eletrônicos:/componentes-eletronicos",
-      "sort": "sales",
-      "title": "Nossos COMPONENTES ELETRÔNICOS (🤓Confira🤓)"
+      "collection_id": "6047dfc56d50911b6059cc58:collections:Nossos MÓDULOS E SENSORES (🤓Confira🤓):/modulos-e-sensores"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6047e02d6d50911b6059cd3c:collections:Veja Quanta FERRAMENTA PRA VOCÊ!(🤓Confira🤓):/ferramentas",
-      "sort": "sales"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-03-30T00:33:34.139Z",
-      "end": "2021-05-28T00:33:34.203Z",
-      "notes": "TEMPORIZADOR TESTE"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
-    },
-    {
-      "type": "blog",
-      "enabled": true
+      "collection_id": "606513623c48b468b9ae1bf7:collections:Conheça Nossos KITS DE ROBÓTICA (🤓Confira🤓):/kits-de-robotica"
     }
   ]
 }
