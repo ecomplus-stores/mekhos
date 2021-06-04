@@ -7,18 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/whatsapp-image-2021-06-01-at-09.24.21-1201-1-.jpeg",
+          "img": "/img/uploads/dynamo-electronics-co.-2-.jpg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
           "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/whatsapp-image-2021-06-01-at-09.24.41-1199-1-.jpeg",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
         }
       ]
     },
@@ -35,6 +29,14 @@
       "sort": "sales"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6047dfc56d50911b6059cc58:collections:Nossos MÓDULOS E SENSORES (🤓Confira🤓):/modulos-e-sensores",
+      "sort": "sales"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -44,14 +46,6 @@
           "img": "/img/uploads/favicon.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6047dfc56d50911b6059cc58:collections:Nossos MÓDULOS E SENSORES (🤓Confira🤓):/modulos-e-sensores",
-      "sort": "sales"
     },
     {
       "type": "collection-shelf",
