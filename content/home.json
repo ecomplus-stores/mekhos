@@ -23,7 +23,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "6059de5c4b9484460868bd49:collections:Tá com pouca grana? Veja nossa LINHA START (🤓Confira🤓):/populares",
+      "collection_id": "6065192d3c48b468b9ae1fd2:collections:Veja Nossos Produtos MAIS VENDIDOS (🤓Confira🤓):/veja-nossos-produtos-mais-vendidos-confira",
       "limit": 12,
       "page": 1,
       "sort": "sales"
@@ -52,7 +52,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6047dfc56d50911b6059cc58:collections:Nossos MÓDULOS E SENSORES (🤓Confira🤓):/modulos-e-sensores"
+      "collection_id": "6059de374b9484460868bd2b:collections:Ei, olha o que ACABOU DE CHEGAR (🤓Confira🤓):/lancamento"
     },
     {
       "type": "collection-shelf",
