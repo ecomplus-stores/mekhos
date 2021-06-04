@@ -4,10 +4,10 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
-          "img": "/img/uploads/dynamo-electronics-co.-5-.jpg",
+          "img": "/img/uploads/dynamo-electronics-co.-7-.jpg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "",
