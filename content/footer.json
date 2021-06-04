@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "Título TESTE RODAPE",
-    "text": "Texto opcional TESTE rodapé"
+    "title": "Robótica e Componentes Eletrônicos é na MEKHOS",
+    "text": "Pense em dois engenheiros NERDS que gostam de tecnologia e robótica, SOMOS NÓS ! Sem contar que temos mais de 10 anos fornecendo kits de robótica, componentes eletrônicos e treinamentos no universo Maker em todo Brasil."
   },
   "links_1": {
     "list_pages": true,
@@ -34,38 +34,35 @@
     ]
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
     "list": [
       {
-        "text": "Acessórios e Ferramentas"
-      },
-      {
         "text": "Arduino"
-      },
-      {
-        "text": "Componentes Eletrônicos"
-      },
-      {
-        "text": "Impressão 3D"
-      },
-      {
-        "text": "Kits"
-      },
-      {
-        "text": "Placas & Prototipagem"
       },
       {
         "text": "Raspberry Pi"
       },
       {
-        "text": "Robótica e Motores"
+        "text": "Robótica e motores"
+      },
+      {
+        "text": "Componentes eletrônicos"
+      },
+      {
+        "text": "Impressão 3D"
+      },
+      {
+        "text": "Acessórios e ferramentas"
+      },
+      {
+        "text": "Wireless & IOT"
       },
       {
         "text": "Treinamentos"
       },
       {
-        "text": "Wireless & IOT"
+        "text": "Kits"
       }
     ]
   },
