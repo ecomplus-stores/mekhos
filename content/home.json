@@ -40,10 +40,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/sensores.jpg"
+          "img": "/img/uploads/sensores.jpg",
+          "link": "https://mekhos.netlify.app/arduinos"
         },
         {
-          "img": "/img/uploads/sensores-1-1-.jpg"
+          "img": "/img/uploads/sensores-1-1-.jpg",
+          "link": "https://mekhos.netlify.app/modulo-gsm-sim800l"
         }
       ]
     },
