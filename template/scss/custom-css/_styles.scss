@@ -1,7 +1,8 @@
 // Add your custom CSS here.
 #header, .footer {
   background: #000;
-  * {
-    color: #fff;
-  } 
+
+}
+.header__toggler-icon, #user-button i, #cart-button i, #cart-count, .header__nav a, .footer * {
+  color: #fff;
 }
