@@ -1,5 +1,5 @@
 {
-  "css": ".menu__item {\ncolor: #000\n}",
+  "css": ".menu__item {color: #000}",
   "html_head": "",
   "html_body": ""
 }
