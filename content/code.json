@@ -1,5 +1,5 @@
 {
-  "css": ".menu__item {color: #000}",
+  "css": ".menu__item {color: #000}\n.menu__list:before {\n    content: url(https://mekhos.netlify.app/img/uploads/logo-transparente-1-.png);\n   display: flex;\n  justify-content: center\n}",
   "html_head": "",
   "html_body": ""
 }
