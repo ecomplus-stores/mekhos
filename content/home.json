@@ -41,15 +41,15 @@
       "banners": [
         {
           "img": "/img/uploads/sensores.jpg",
-          "link": "https://mekhos.netlify.app/arduinos"
+          "link": "https://www.mekhos.com.br/arduinos"
         },
         {
           "img": "/img/uploads/sensores-1-1-.jpg",
-          "link": "https://mekhos.netlify.app/modulo-gsm-sim800l"
+          "link": "https://www.mekhos.com.br/modulo-gsm-sim800l"
         },
         {
           "img": "/img/uploads/sensores-2-1-.jpg",
-          "link": "https://mekhos.netlify.app/cartao-micro-sd-16gb-classe-10"
+          "link": "https://www.mekhos.com.br/cartao-micro-sd-16gb-classe-10"
         }
       ]
     },
