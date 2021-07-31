@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bc090daf0e8a39deafcafb0629a87b9b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.95c0d6d5d17a7e564aea526039343be7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.541b3d1c0e9506574a2e6c8ee9d27cc8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.73b41b60f1840c4ccf43416fe2eefd4c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.54d67733dda5eeb5d340acac24b162c8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Robótica e Componentes Eletrônicos é na MEKHOS",
+  "short_name": "Loja MEKHOS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Pense em dois engenheiros NERDS que gostam de tecnologia e robótica, SOMOS NÓS ! Sem contar que temos mais de 10 anos fornecendo kits de robótica, componentes eletrônicos e treinamentos no universo Maker em todo Brasil.",
+  "background_color": "#ffffff",
+  "theme_color": "#f35b04"
+}
