@@ -1,5 +1,5 @@
 {
-  "domain": "www.mekhos.com.br",
+  "domain": "",
   "currency_symbol": "R$",
   "primary_color": "#f35b04",
   "theme": {
@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-transparente-1-.png",
-  "name": "Robótica e Componentes Eletrônicos é na MEKHOS",
-  "short_name": "Loja MEKHOS",
+  "name": "",
+  "short_name": "",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#828282",
   "icon": "/img/uploads/logo-transparente-1-.png",
   "store_id": 1127,
-  "description": "Pense em dois engenheiros NERDS que gostam de tecnologia e robótica, SOMOS NÓS ! Sem contar que temos mais de 10 anos fornecendo kits de robótica, componentes eletrônicos e treinamentos no universo Maker em todo Brasil.",
+  "description": "",
   "large_icon": "/img/uploads/logo-transparente-1-.png"
 }
